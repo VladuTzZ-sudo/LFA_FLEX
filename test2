@@ -1,0 +1,66 @@
+var a, b, c ... int = 1, 2, "mama"
+var e int = 2
+var f, g string
+var e, float32
+var k, l, m int = 2, 3, 4
+var ada 2
+pix, stilou := "nice", 3.25
+
+func pix(a int pix float32, ion bool) {
+
+}
+
+func stilou(a int, ion bool) float32 {
+var a in
+/*
+
+
+*/
+// pix
+a := a
+return
+}
+
+// nu se accepta atatea spatii intre numele functiei si (.
+func penar  (a, b int) int {}
+
+func main() {
+  var a, b, c := 2, 3, 4
+  var d int = a
+  var e, f string = b, "ana"
+}
+
+// se accepta atatea spatii
+func main()                            {
+
+
+
+// se accepta string pe mai multe linii.
+var a int
+var b bool
+a = 7
+c = true
+var d string = c
+var a bool = "
+
+"
+return "orice"
+}
+
+func stilou(         ){
+ada := 5
+}
+
+func stilou(.).{.}.
+
+func 1pix(     ){}
+
+func pix(a, float32, b string) bool {
+var int 
+
+var a,b := 3.2, "pix", 4, 3.2, "creion"
+var a,b,c := 2, true
+var b,c,d := 3.5, false
+
+return true
+}

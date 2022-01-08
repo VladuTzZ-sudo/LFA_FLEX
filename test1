@@ -1,0 +1,86 @@
+Aceasta este o linie de inceput.
+// nu conteaza ce scrie aici, este comentariu 
+Linie noua , scris nou, idei frumoase. 
+/*ds/
+s //
+a *s/***o//
+*/
+ 
+Cuvinte random.
+
+var a, b, c int = 1, 2, "mama"
+var e int = 2
+var f, g string
+var i,j float32 ....
+var k, l, m int = 2, 3, 4
+var ada = 2
+pix, stilou := "nice", 3.25
+
+func pix(a int,pix float32, ion bool) {
+
+}
+
+func stilou(a int, ion bool) float32 {
+var a int
+/*
+
+
+*/
+// pix
+a := a
+return
+}
+
+func creion(a, b, c int, e, f float32) int
+
+{
+// nu se accepta 2 newline-uri intre antet si prima acolada !
+	return a
+
+
+
+}
+
+// nu este eroare, deoarece analizatorul stie ca b este de tip int ( din arg ).
+func penar(a, b int) int { return b }
+
+func main() {
+  var a, b, c := 2, 3, 4
+  var d int = a
+  var e, f string = b, "ana"
+}
+
+func main() {
+var a int
+var b int
+a := 7
+a = 8
+c := true
+var d string = c
+var a bool = "
+"
+}
+
+ada := 3
+var f = 3
+i = "amama"
+b := 2.34
+
+func stilou(         ){
+ada := 5
+}
+
+func stilou(){}
+
+func pix(     ){}
+
+func pix(a float32, b string) bool {
+var int 
+
+var a,b := 3.2, "pix", 4, 3.2, "creion"
+var a,b,c := 2, true
+b,c,d := 3.5, false
+b,c,d = "pix", true
+
+return b
+}
